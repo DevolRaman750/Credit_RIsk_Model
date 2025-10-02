@@ -72,6 +72,10 @@ The project showcases the **end-to-end Data Science pipeline**:
 
         
 ---
+---
+## Live app on 
+link-https://devolraman750-credit-risk-model-app-zlkirt.streamlit.app/
+---
 
 ## How to Run the App
 
@@ -86,8 +90,13 @@ streamlit run App.py
 
 Local URL: http://localhost:8501
 
+
+
+
 Network URL: Shown in terminal
 Contact
 
 👤 Raman Tripathi
 📩 Email: ramantripathi0707@gmail.com
+
+
